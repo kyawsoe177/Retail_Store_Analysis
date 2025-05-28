@@ -127,16 +127,14 @@ we will proceed to delete these rows to maintain data quality without significan
 
 ## Key Insights
 
-
 According to the dashboard
 - Office Supplies dominate the product sales chart with 60% of total sales.
 - Sales fluctuate throughout the year, with noticeable peaks in January and May, while June and October experience dips.
 - The South region leads significantly in overall performance, whereas the East region is underperforming in comparison.
 - The Home Office segment emerges as the most profitable, while Consumer and Corporate segments show nearly equal profit levels.
 
-### Actionable recommendations
-<p align="justify">
+## Actionable Recommendations
+
 - Sales Peaks Analysis: The spikes in January and May could be driven by seasonal promotions, end-of-year budgeting, or procurement cycles. Further analysis of order patterns and customer behavior during these months may reveal more insights.
 - Underperformance in East: The East region may benefit from targeted marketing campaigns or operational improvements, such as better supply chain management or enhanced customer engagement strategies.
 - Product Category Dependence: The business shows a heavy reliance on Office Supplies, which may pose a risk. There is a clear opportunity to diversify by expanding offerings in the Furniture and Technology categories to increase resilience and drive growth.
-</p>
