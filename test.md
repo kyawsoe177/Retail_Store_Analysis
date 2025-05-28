@@ -99,6 +99,10 @@ we will proceed to delete these rows to maintain data quality without significan
 =IF(A2="", 0, A2)
 ````
 
+## Data Visulization
+
+## Key Insights
+
 
 
 
